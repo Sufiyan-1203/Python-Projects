@@ -49,7 +49,9 @@ Contains the visual representation of the hangman stages and the game logo.
 
 Enter the desired length of the word (3 to 9): 4
 Word to guess: ____
+
 **************************** 6/6 LIVES LEFT ****************************
+
 Guess a letter: a
 'a' is not in the word. You lose a life.
 Word to guess: ____
