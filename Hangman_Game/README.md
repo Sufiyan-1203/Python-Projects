@@ -47,23 +47,6 @@ Contains the visual representation of the hangman stages and the game logo.
 
 ## Example Output
 
- _
- 
-| |
-
-| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __
-
-| '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \
-
-| | | | (_| | | | | (_| | | | | | | (_| | | | |
-
-|_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
-
-                    __/ |
-                    
-                   |___/
-                   
-
 Enter the desired length of the word (3 to 9): 4
 
 Word to guess: ____
@@ -75,21 +58,6 @@ Guess a letter: a
 'a' is not in the word. You lose a life.
 
 Word to guess: ____
-
-
-  +---+
-  
-  |   |
-  
-  O   |
-  
-      |
-      
-      |
-      
-      |
-      
-=========
 
 **************************** 5/6 LIVES LEFT ****************************
 
