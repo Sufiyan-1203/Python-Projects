@@ -30,9 +30,6 @@ Contains the visual representation of the hangman stages and the game logo.
 
 2. **Steps**:
    - Clone or download the project files into a directory.
-   - Open the terminal and navigate to the project directory:
-     ```bash
-     cd c:\Users\SUFIYAN\OneDrive\Desktop\Python Projects\Hangman_Game
      ```
    - Run the game using:
      ```bash
