@@ -15,10 +15,7 @@ This is a simple Contact Book application built with Python's Tkinter library fo
 
 1. Make sure you have Python 3 installed.
 2. Place `Contact_Book_final.py` in your working directory.
-3. Open a terminal and navigate to the directory:
-   ```bash
-   cd c:\Users\SUFIYAN\OneDrive\Desktop\Python Projects\Contact_Book
-4. Run the script:
+3. Run the script:
     python Contact_Book_final.py
 
 ## Usage
