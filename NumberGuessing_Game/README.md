@@ -23,10 +23,7 @@ This is a simple and interactive Number Guessing Game written in Python. The pla
 
 1. Make sure you have Python 3 installed.
 2. Place `NumberGuessing_final.py` in your working directory.
-3. Open a terminal and navigate to the directory:
-   ```bash
-   cd c:\Users\SUFIYAN\OneDrive\Desktop\Python Projects\NumberGuessing_Game
-4. Run the script:
+3. Run the script:
    python NumberGuessing_final.py
 
 ## Example Output
