@@ -30,7 +30,6 @@ Contains the visual representation of the hangman stages and the game logo.
 
 2. **Steps**:
    - Clone or download the project files into a directory.
-     ```
    - Run the game using:
      ```bash
      python hangman_final.py
