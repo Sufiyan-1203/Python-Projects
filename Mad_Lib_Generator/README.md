@@ -14,10 +14,7 @@ This is a simple and fun Mad Lib Generator written in Python. The program prompt
 
 1. Make sure you have Python 3 installed.
 2. Place `Generator_final.py` in your working directory.
-3. Open a terminal and navigate to the directory:
-   ```bash
-   cd c:\Users\SUFIYAN\OneDrive\Desktop\Python Projects\Mad_Lib_Generator
-4. Run the script:
+3. Run the script:
     python Generator_final.py
 
 ## Usage
