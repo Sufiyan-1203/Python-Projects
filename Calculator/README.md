@@ -19,10 +19,7 @@ This is a modern calculator application built with Python's Tkinter library. It 
 
 1. Make sure you have Python 3 installed.
 2. Place `Calculator_final.py` in your working directory.
-3. Open a terminal and navigate to the directory:
-   ```bash
-   cd c:\Users\SUFIYAN\OneDrive\Desktop\Python Projects\Calculator
-4. Run the script:
+4. Run the script: python Calculator_final.py
 
 ## Usage
 1. Click the buttons to enter numbers and operations.
