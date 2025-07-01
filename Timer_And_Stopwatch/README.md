@@ -18,10 +18,7 @@ This is a Python application with a graphical user interface (GUI) built using T
 
 1. Make sure you have Python 3 installed.
 2. Place `Clock_final.py` in your working directory.
-3. Open a terminal and navigate to the directory:
-   ```bash
-   cd c:\Users\SUFIYAN\OneDrive\Desktop\Python Projects\Timer_And_Stopwatch
-4. Run the script:
+3. Run the script:
     python Clock_final.py
 
 ## Usage
