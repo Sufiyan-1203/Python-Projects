@@ -17,12 +17,9 @@ This is a simple Python program that generates a secure, random password based o
 
 1. Make sure you have Python 3 installed.
 2. Place `RadomPasswordGenerator_final.py` in your working directory.
-3. Open a terminal and navigate to the directory:
-   ```bash
-   cd c:\Users\SUFIYAN\OneDrive\Desktop\Python Projects\RandomPasswordGenerator
-4. Run the script:
+3. Run the script:
    python RadomPasswordGenerator_final.py
-5. Enter the desired password length (minimum 8) when prompted.
+4. Enter the desired password length (minimum 8) when prompted.
 
 ## Example Output
 Enter password length (minimum 8): 12
